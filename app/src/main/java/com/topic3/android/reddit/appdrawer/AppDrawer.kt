@@ -22,7 +22,6 @@ import androidx.compose.ui.unit.sp
 import androidx.constraintlayout.compose.ConstraintLayout
 import androidx.constraintlayout.compose.Dimension
 import com.topic3.android.reddit.R
-
 import com.topic3.android.reddit.theme.RedditThemeSettings
 
 /**
